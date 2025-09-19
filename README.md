@@ -17,9 +17,11 @@ A simple yet powerful way to run Roblox from the terminal (only commands, not th
 
 ### Codex
 
-( .github ) -> This file is used to hold all of the workflows from GitHub Actions. This is used for many things including build management, and the build badge you see on the top of this repository.
+( .github ) -> This folder is used to hold all of the workflows from GitHub Actions. This is used for many things including build management, and the build badge you see on the top of this repository.
 
-( .idea ) -> This file is base files from the Jetbrains powered IDE.
+( .idea ) -> This folder is base files from the Jetbrains powered IDE.
+
+( source ) -> This folder contains all of the main code; no more mumbo-jumbo extensions.
 
 ( README.md ) -> This is the file you are currently inside of.
 
@@ -27,6 +29,17 @@ A simple yet powerful way to run Roblox from the terminal (only commands, not th
 
 ### Getting Started
 
+Getting started with Nachash is fairly simple- First you have to make sure you have pip/pip3 from Python installed.
+After that you simply run:
+**MacOS**
+```sh
+pip3 install nachash
+```
+**Windows:**
+```sh
+pip install nachash
+```
+If it came up with no errors, you have succesfully installed Nachash, the Roblox terminal tool.
 ### Usage
 
 ### Notes
