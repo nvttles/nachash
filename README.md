@@ -32,7 +32,7 @@ A simple yet powerful way to run Roblox from the terminal (only commands, not th
 Getting started with Nachash is fairly simple- First you have to make sure you have pip/pip3 from Python installed.
 After that you simply run:
 
-**MacOS**
+**MacOS:**
 ```sh
 pip3 install nachash
 ```
