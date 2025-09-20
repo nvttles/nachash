@@ -1,7 +1,7 @@
 # nachash
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nvttles/nachash/ci.yml?style=flat)
 ![GitHub Repo stars](https://img.shields.io/github/stars/nvttles/nachash?style=flat)
-![Codecov](https://img.shields.io/codecov/c/github/nvttles/nachash)
+![Codecov](https://img.shields.io/codecov/c/github/nvttles/nachash?icon=codecov)
 ![GitHub language count](https://img.shields.io/github/languages/count/nvttles/nachash)
 ![GitHub top language](https://img.shields.io/github/languages/top/nvttles/nachash)
 
